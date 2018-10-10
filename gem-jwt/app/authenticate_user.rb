@@ -1,4 +1,3 @@
-
 class AuthenticateUser
   prepend SimpleCommand
 
