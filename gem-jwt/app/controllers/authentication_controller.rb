@@ -10,4 +10,9 @@ class AuthenticationController < ApplicationController
      render json: { error: command.errors }, status: :unauthorized
    end
  end
+
+ def register
+
+
+ end 	
 end
