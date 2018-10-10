@@ -11,8 +11,4 @@ class AuthenticationController < ApplicationController
    end
  end
 
- def register
-
-
- end 	
 end
