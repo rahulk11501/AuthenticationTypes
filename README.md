@@ -14,3 +14,10 @@ Different ways of signin and signup
 * thinkster_jwt_tut
 
 https://thinkster.io/tutorials/rails-json-api/setting-up-users-and-authentication-for-our-api
+
+#TODO
+
+Read the in and outs of : 
+
+* Devise 
+* JWT
